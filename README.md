@@ -1,5 +1,6 @@
 <h1># React Router Example<h1>
 <hr>
+  <hr/>
   <h3>Lerning Apps </h3>
 # <p>This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.</p>
 # last edit 2026
